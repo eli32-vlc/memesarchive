@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/posts/meme1/</loc>
+    <loc>https://memes.eason.fr.to/posts/meme1/</loc>
     <lastmod>2024-04-17T19:37:16+10:00</lastmod>
   </url><url>
-    <loc>https://example.org/</loc>
+    <loc>https://memes.eason.fr.to/</loc>
     <lastmod>2024-04-17T19:37:16+10:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://memes.eason.fr.to/posts/</loc>
     <lastmod>2024-04-17T19:37:16+10:00</lastmod>
   </url><url>
-    <loc>https://example.org/index-about/</loc>
+    <loc>https://memes.eason.fr.to/index-about/</loc>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://memes.eason.fr.to/categories/</loc>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://memes.eason.fr.to/tags/</loc>
   </url>
 </urlset>
