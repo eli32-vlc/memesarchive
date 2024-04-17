@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Memes Archive</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Apr 2024 19:37:16 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 20:30:13 +1000</lastBuildDate>
     <atom:link href="https://memes.eason.fr.to/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meme2</title>
+      <link>https://memes.eason.fr.to/posts/meme2/</link>
+      <pubDate>Wed, 17 Apr 2024 20:30:13 +1000</pubDate>
+      <guid>https://memes.eason.fr.to/posts/meme2/</guid>
+      <description>Source: https://programmerhumor.io/programming-memes/linux-is-free-if-you-dont-value-your-time-tech-as-a-millionaire-lead/</description>
+    </item>
     <item>
       <title>BTW I Use Arch</title>
       <link>https://memes.eason.fr.to/posts/meme1/</link>
