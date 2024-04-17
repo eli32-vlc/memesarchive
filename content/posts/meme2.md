@@ -1,5 +1,5 @@
 +++
-title = 'Meme2'
+title = 'Using Linux for Programming and Windows for Gaming Using Linux for Gaming and Windows for Programming'
 date = 2024-04-17T20:30:13+10:00
 type = "post"
 draft = false
