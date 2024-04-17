@@ -1,6 +1,7 @@
 +++
 title = 'NVIDIA updates available'
 date = 2024-04-18T06:27:36+10:00
+type = "post"
 draft = false
 +++
 
