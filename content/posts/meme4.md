@@ -6,3 +6,5 @@ draft = false
 +++
 
 ![USSR Anthem starts playing](/images/ussrmeme.png)
+
+Source: https://www.reddit.com/r/memes/comments/hhb6ux/ussr_anthem_starts_playing/
